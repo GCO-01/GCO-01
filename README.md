@@ -12,6 +12,5 @@ Welcome to my GitHub! I'm a passionate entrepreneur keen on the power of technol
 [LinkedIn](https://www.linkedin.com/in/gabriel-carpio-ochoa-717205220/)
 
 ## :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
