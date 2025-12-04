@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate entrepreneur keen on the power of technol
 ## About me
 - 🎓 **Major**: Business Administration
 - 📍 **Location**: Lima, Perú
-- 💼 **Current Job/Position**: Innovation Assistant
+- 💼 **Current Job/Position**: Product Development Analyst
 - 🌱 **Currently Learning**: Python
 - 💥 **Fun Fact**: I play the keys for a local band
 
