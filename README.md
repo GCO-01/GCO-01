@@ -13,12 +13,12 @@ Welcome to my GitHub! I'm a passionate entrepreneur keen on the power of technol
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [GCO-01/GCO-01_past.github.io](https://github.com/GCO-01/GCO-01_past.github.io)<br>
+1. ⬆️ Pushed undefined commit(s) to [GCO-01/GCO-01.github.io](https://github.com/GCO-01/GCO-01.github.io)<br>
 2. ⬆️ Pushed undefined commit(s) to [GCO-01/GCO-01_past.github.io](https://github.com/GCO-01/GCO-01_past.github.io)<br>
 3. ⬆️ Pushed undefined commit(s) to [GCO-01/GCO-01_past.github.io](https://github.com/GCO-01/GCO-01_past.github.io)<br>
 4. ⬆️ Pushed undefined commit(s) to [GCO-01/GCO-01_past.github.io](https://github.com/GCO-01/GCO-01_past.github.io)<br>
 5. ⬆️ Pushed undefined commit(s) to [GCO-01/GCO-01_past.github.io](https://github.com/GCO-01/GCO-01_past.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 4th, 2026, 1:34:03 PM
+Last Updated: Sunday, April 5th, 2026, 1:19:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
